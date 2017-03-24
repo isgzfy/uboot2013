@@ -1,0 +1,1 @@
+/root/u-boot-2013.04-rc1（zzq）/arch/arm/lib/crt0.S
