@@ -1,6 +1,0 @@
-div64.o: div64.c /project/u-boot-2013.04-rc1-day1/include/linux/types.h \
-  /project/u-boot-2013.04-rc1-day1/include/linux/config.h \
-  /project/u-boot-2013.04-rc1-day1/include/linux/posix_types.h \
-  /project/u-boot-2013.04-rc1-day1/include/linux/stddef.h \
-  /project/u-boot-2013.04-rc1-day1/include/asm/posix_types.h \
-  /project/u-boot-2013.04-rc1-day1/include/asm/types.h
