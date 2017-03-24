@@ -1,0 +1,1 @@
+ctype.o: ctype.c /project/u-boot-2013.04-rc1-day1/include/linux/ctype.h

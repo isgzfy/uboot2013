@@ -1,0 +1,19 @@
+linux_string.o: linux_string.c \
+  /project/u-boot-2013.04-rc1-day1/include/linux/ctype.h \
+  /project/u-boot-2013.04-rc1-day1/include/linux/string.h \
+  /project/u-boot-2013.04-rc1-day1/include/linux/types.h \
+  /project/u-boot-2013.04-rc1-day1/include/linux/config.h \
+  /project/u-boot-2013.04-rc1-day1/include/linux/posix_types.h \
+  /project/u-boot-2013.04-rc1-day1/include/linux/stddef.h \
+  /project/u-boot-2013.04-rc1-day1/include/asm/posix_types.h \
+  /project/u-boot-2013.04-rc1-day1/include/asm/types.h \
+  /project/u-boot-2013.04-rc1-day1/include/asm/string.h \
+  /project/u-boot-2013.04-rc1-day1/include/config.h \
+  /project/u-boot-2013.04-rc1-day1/include/config_cmd_defaults.h \
+  /project/u-boot-2013.04-rc1-day1/include/config_defaults.h \
+  /project/u-boot-2013.04-rc1-day1/include/configs/smdk6400.h \
+  /project/u-boot-2013.04-rc1-day1/include/config_cmd_default.h \
+  /project/u-boot-2013.04-rc1-day1/include/asm/config.h \
+  /project/u-boot-2013.04-rc1-day1/include/config_fallbacks.h \
+  /project/u-boot-2013.04-rc1-day1/include/config_uncmd_spl.h \
+  /project/u-boot-2013.04-rc1-day1/include/linux/linux_string.h

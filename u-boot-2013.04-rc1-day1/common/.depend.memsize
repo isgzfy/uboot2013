@@ -1,0 +1,8 @@
+memsize.o: memsize.c /project/u-boot-2013.04-rc1-day1/include/config.h \
+  /project/u-boot-2013.04-rc1-day1/include/config_cmd_defaults.h \
+  /project/u-boot-2013.04-rc1-day1/include/config_defaults.h \
+  /project/u-boot-2013.04-rc1-day1/include/configs/smdk6400.h \
+  /project/u-boot-2013.04-rc1-day1/include/config_cmd_default.h \
+  /project/u-boot-2013.04-rc1-day1/include/asm/config.h \
+  /project/u-boot-2013.04-rc1-day1/include/config_fallbacks.h \
+  /project/u-boot-2013.04-rc1-day1/include/config_uncmd_spl.h
