@@ -24,7 +24,11 @@
 #include <common.h>
 #include <linux/compiler.h>
 #include <serial.h>
+#ifdef CONFIG_S3C6400
 #include <asm/arch/s3c6400.h>
+#else
+#include <asm/arch/s3c6410.h>
+#endif
 
 DECLARE_GLOBAL_DATA_PTR;
 

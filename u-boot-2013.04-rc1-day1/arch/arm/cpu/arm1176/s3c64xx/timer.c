@@ -40,7 +40,13 @@
 
 #include <common.h>
 #include <asm/proc-armv/ptrace.h>
+
+#ifdef CONFIG_S3C6400
 #include <asm/arch/s3c6400.h>
+#else
+#include <asm/arch/s3c6410.h>
+#endif
+
 #include <div64.h>
 
 static ulong timer_load_val;

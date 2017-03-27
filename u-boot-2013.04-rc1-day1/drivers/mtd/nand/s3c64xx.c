@@ -30,7 +30,11 @@
 #include <nand.h>
 #include <linux/mtd/nand.h>
 
+#ifdef CONFIG_S3C6400
 #include <asm/arch/s3c6400.h>
+#else
+#include <asm/arch/s3c6410.h>
+#endif
 
 #include <asm/io.h>
 #include <asm/errno.h>
