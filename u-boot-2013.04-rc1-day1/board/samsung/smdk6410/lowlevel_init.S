@@ -184,7 +184,7 @@ check_syncack:
 	 * This was unconditional in original Samsung sources, but it doesn't
 	 * seem to make much sense on S3C6400.
 	 */
-#ifndef CONFIG_S3C6400
+#ifndef CONFIG_S3C6410
 	ldr	r1, [r0, #OTHERS_OFFSET]
 	bic	r1, r1, #0xC0
 	orr	r1, r1, #0x40
