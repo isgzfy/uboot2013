@@ -1,0 +1,1 @@
+/project/u-boot-2013.04-rc1-day1/board/samsung/smdk6410/smdk6410_nand_spl.c

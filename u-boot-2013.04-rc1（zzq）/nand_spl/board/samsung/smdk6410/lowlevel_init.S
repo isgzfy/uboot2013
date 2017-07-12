@@ -1,0 +1,1 @@
+/root/u-boot-2013.04-rc1（zzq）/board/samsung/smdk6410/lowlevel_init.S
